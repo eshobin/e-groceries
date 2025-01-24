@@ -1,1 +1,1 @@
-# e-groceries
+# E-groceries
